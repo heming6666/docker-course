@@ -1,0 +1,16 @@
+{
+  "title": "部署一个静态HTML网站",
+  "description": "学习如何在你的HTML站点上构建一个运行Nginx的Docker镜像",
+  "environment": {
+    "image": "docker",
+    "cmd": "/bin/bash"
+  },
+  "pre": "pre.sh",
+  "steps": [
+    "steps/step1",
+    "steps/step2",
+    "steps/step3",
+    "steps/step4",
+    "steps/step5"
+  ]
+}

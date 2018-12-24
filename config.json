@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "title": "Docker 教程",
+  "author": "Kfcoding",
+  "description": "学习如何使用Docker来部署你的应用，掌握Docker的基本用法",
+  "scenarios": [
+    "scenarios/scenario1",
+    "scenarios/scenario2",
+    "scenarios/scenario3",
+    "scenarios/scenario4"
+  ]
+}

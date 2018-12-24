@@ -1,0 +1,17 @@
+{
+  "title": "配置你的第一个Docker",
+  "description": " 配置你的第一个Docker",
+  "environment": {
+    "image": "docker",
+    "cmd": "/bin/bash"
+  },
+  "pre": "pre.sh",
+  "steps": [
+    "steps/step1",
+    "steps/step2",
+    "steps/step3",
+    "steps/step4",
+    "steps/step5",
+    "steps/step6"
+  ]
+}

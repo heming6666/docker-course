@@ -1,0 +1,7 @@
+{
+  "title": "运行一个容器",
+  "description": "运行一个容器",
+  "text": "text.md",
+  "pre": "pre.sh",
+  "verify": "verify.sh"
+}
