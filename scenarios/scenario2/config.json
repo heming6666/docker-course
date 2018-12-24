@@ -9,8 +9,6 @@
   "steps": [
     "steps/step1",
     "steps/step2",
-    "steps/step3",
-    "steps/step4",
-    "steps/step5"
+    "steps/step3"
   ]
 }
