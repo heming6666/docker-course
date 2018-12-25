@@ -1,0 +1,13 @@
+{
+  "title": "使用Docker统计数据查看容器指标",
+  "description": "在本节课程中，我们将探讨如何在运行容器的CPU、内存和IO中获得更多的可见性，以确保它能够按预期工作并诊断问题。",
+  "environment": {
+    "image": "docker",
+    "cmd": "/bin/bash"
+  },
+  "pre": "pre.sh",
+  "steps": [
+    "steps/step1",
+    "steps/step2"
+  ]
+}

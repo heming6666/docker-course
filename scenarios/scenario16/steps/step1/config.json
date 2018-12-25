@@ -1,0 +1,7 @@
+{
+  "title": "单个容器",
+  "description": "创建Dockerfile",
+  "text": "text.md",
+  "pre": "pre.sh",
+  "verify": "verify.sh"
+}

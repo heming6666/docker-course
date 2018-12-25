@@ -1,0 +1,6 @@
+{
+  "title": "多个容器",
+  "description": "Dockerfile配置",
+  "text": "text.md",
+  "pre": "pre.sh"
+}

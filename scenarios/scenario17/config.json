@@ -1,0 +1,14 @@
+{
+  "title": "使用多阶段构建优化Docker镜像",
+  "description": "在本节课程中，您将学习如何使用多阶段构建功能来制作更小、更优化的镜像。",
+  "environment": {
+    "image": "docker",
+    "cmd": "/bin/bash"
+  },
+  "pre": "pre.sh",
+  "steps": [
+    "steps/step1",
+    "steps/step2",
+    "steps/step3"
+  ]
+}
