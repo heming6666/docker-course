@@ -1,0 +1,16 @@
+{
+  "title": "添加Docker元数据和标签",
+  "description": "本节课程指导你创建和查询容器和镜像的元数据。",
+  "environment": {
+    "image": "docker",
+    "cmd": "/bin/bash"
+  },
+  "pre": "pre.sh",
+  "steps": [
+    "steps/step1",
+    "steps/step2",
+    "steps/step3",
+    "steps/step4",
+    "steps/step5"
+  ]
+}
