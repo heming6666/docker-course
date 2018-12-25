@@ -1,0 +1,7 @@
+{
+  "title": "例一、名称和镜像作为表",
+  "description": "创建Dockerfile",
+  "text": "text.md",
+  "pre": "pre.sh",
+  "verify": "verify.sh"
+}

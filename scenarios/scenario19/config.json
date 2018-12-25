@@ -1,0 +1,17 @@
+{
+  "title": "Docker Swarm 集群",
+  "description": "在本节课程中，你将学习如何初始化Docker Swarm模式集群，并使用内置的Docker编制来部署联网的容器。",
+  "environment": {
+    "image": "docker",
+    "cmd": "/bin/bash"
+  },
+  "pre": "pre.sh",
+  "steps": [
+    "steps/step1",
+    "steps/step2",
+    "steps/step3",
+    "steps/step4",
+    "steps/step5",
+    "steps/step6"
+  ]
+}

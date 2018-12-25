@@ -1,0 +1,13 @@
+{
+  "title": "格式化PS输出",
+  "description": "在本节课程中，您将学习如何使用 --format 参数来实现docker ps和docker inspect的打印输出。",
+  "environment": {
+    "image": "docker",
+    "cmd": "/bin/bash"
+  },
+  "pre": "pre.sh",
+  "steps": [
+    "steps/step1",
+    "steps/step2"
+  ]
+}
