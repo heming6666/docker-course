@@ -1,0 +1,14 @@
+{
+  "title": "用重启策略保持容器在线",
+  "description": "本节课程将探索如何使容器保持运行，并在意外崩溃时自动重启它们。",
+  "environment": {
+    "image": "docker",
+    "cmd": "/bin/bash"
+  },
+  "pre": "pre.sh",
+  "steps": [
+    "steps/step1",
+    "steps/step2",
+    "steps/step3"
+  ]
+}

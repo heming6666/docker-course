@@ -1,0 +1,6 @@
+{
+  "title": "在失败时重启",
+  "description": "Dockerfile配置",
+  "text": "text.md",
+  "pre": "pre.sh"
+}
