@@ -1,0 +1,14 @@
+{
+  "title": "管理容器日志文件",
+  "description": "本节课程将探索在容器运行时，如何处理来自应用程序和服务所产生的日志输出的不同方法。",
+  "environment": {
+    "image": "docker",
+    "cmd": "/bin/bash"
+  },
+  "pre": "pre.sh",
+  "steps": [
+    "steps/step1",
+    "steps/step2",
+    "steps/step3"
+  ]
+}
