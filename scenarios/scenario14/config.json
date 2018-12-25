@@ -1,6 +1,6 @@
 {
-  "title": "使用Links进行容器间通信",
-  "description": "学习如何使用Links将多个容器连接在一起，进行容器间通信",
+  "title": "负载均衡容器",
+  "description": "在本课程中，我们将探讨如何使用NGINX web服务器在主机上运行的两个容器之间进行负载均衡",
   "environment": {
     "image": "docker",
     "cmd": "/bin/bash"
