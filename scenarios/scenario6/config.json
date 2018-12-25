@@ -1,0 +1,14 @@
+{
+  "title": ".dockerignore文件",
+  "description": "如何使用.dockerignore来优化构建实践，并确保Docker镜像中不包含敏感文件或文件夹",
+  "environment": {
+    "image": "docker",
+    "cmd": "/bin/bash"
+  },
+  "pre": "pre.sh",
+  "steps": [
+    "steps/step1",
+    "steps/step2",
+    "steps/step3"
+  ]
+}

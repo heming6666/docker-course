@@ -1,0 +1,6 @@
+{
+  "title": "Docker构建上下文",
+  "description": "Dockerfile配置",
+  "text": "text.md",
+  "pre": "pre.sh"
+}

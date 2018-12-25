@@ -1,0 +1,14 @@
+{
+  "title": "使用Networks进行容器间通信",
+  "description": "学习如何使用Networks将多个容器连接在一起，进行容器间通信",
+  "environment": {
+    "image": "docker",
+    "cmd": "/bin/bash"
+  },
+  "pre": "pre.sh",
+  "steps": [
+    "steps/step1",
+    "steps/step2",
+    "steps/step3"
+  ]
+}

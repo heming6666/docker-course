@@ -1,0 +1,14 @@
+{
+  "title": "使用OnBuild指令优化Dockerfile",
+  "description": "学习在Dockerfile中使用OnBuild优化构建过程",
+  "environment": {
+    "image": "docker",
+    "cmd": "/bin/bash"
+  },
+  "pre": "pre.sh",
+  "steps": [
+    "steps/step1",
+    "steps/step2",
+    "steps/step3"
+  ]
+}
