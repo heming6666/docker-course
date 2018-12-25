@@ -1,6 +1,6 @@
 {
   "title": "构建容器镜像",
-  "description": "学习如何构建并运行你自己的容器镜像",
+  "description": "我们将讨论如何编写Dockerfile，用来如何定义构建和配置你的镜像",
   "environment": {
     "image": "docker",
     "cmd": "/bin/bash"

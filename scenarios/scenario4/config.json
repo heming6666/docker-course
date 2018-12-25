@@ -1,6 +1,6 @@
 {
   "title": "在容器中部署Node.js应用程序",
-  "description": "学习如何在容器中部署Node.js应用程序",
+  "description": "本课程将探讨如何构建一个用于部署Node.js应用程序的Dockerfile。",
   "environment": {
     "image": "docker",
     "cmd": "/bin/bash"

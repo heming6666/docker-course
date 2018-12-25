@@ -1,6 +1,6 @@
 {
   "title": "配置你的第一个Docker",
-  "description": " 配置你的第一个Docker",
+  "description": "",
   "environment": {
     "image": "docker",
     "cmd": "/bin/bash"

@@ -1,6 +1,6 @@
 {
   "title": "使用OnBuild指令优化Dockerfile",
-  "description": "学习在Dockerfile中使用OnBuild优化构建过程",
+  "description": "我们将探索如何使用OnBuild指令来优化Dockerfile",
   "environment": {
     "image": "docker",
     "cmd": "/bin/bash"
