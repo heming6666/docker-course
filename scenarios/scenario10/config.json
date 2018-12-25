@@ -1,0 +1,14 @@
+{
+  "title": "使用Volumes持久化数据",
+  "description": "学习如何使用Volumes持久化数据并在容器间共享数据",
+  "environment": {
+    "image": "docker",
+    "cmd": "/bin/bash"
+  },
+  "pre": "pre.sh",
+  "steps": [
+    "steps/step1",
+    "steps/step2",
+    "steps/step3"
+  ]
+}
