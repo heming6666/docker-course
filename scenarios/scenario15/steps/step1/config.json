@@ -1,0 +1,7 @@
+{
+  "title": "定义第一个容器",
+  "description": "引入",
+  "text": "text.md",
+  "pre": "pre.sh",
+  "verify": "verify.sh"
+}

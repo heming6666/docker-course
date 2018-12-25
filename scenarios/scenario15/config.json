@@ -1,0 +1,18 @@
+{
+  "title": "使用Docker Compose进行容器编排",
+  "description": "在这个场景中，我们将探讨如何使用Docker Compose来管理多容器应用程序的编排。",
+  "environment": {
+    "image": "docker",
+    "cmd": "/bin/bash"
+  },
+  "pre": "pre.sh",
+  "steps": [
+    "steps/step1",
+    "steps/step2",
+    "steps/step3",
+    "steps/step4",
+    "steps/step5",
+    "steps/step6",
+    "steps/step7"
+  ]
+}
